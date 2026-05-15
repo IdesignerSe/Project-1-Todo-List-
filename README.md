@@ -16,3 +16,9 @@ The solution must achieve the following requirements:
  Support a text-based user interface
  Load and save task list to file The solution may also include other creative features at 
 your discretion in case you wish to show some flair.
+
+## Making the TODO-LIST ##
+I intent to do to a version that is Event oriente.
+Using a Calender per month gets the holidays giving the opportunity to create the event.
+An Ai subgest how to build the list. 
+User give the ok to the suggested list. or add his own.
