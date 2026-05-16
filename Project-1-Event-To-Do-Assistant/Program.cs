@@ -14,7 +14,7 @@ while (running)
     Console.Clear();
     menu.ShowMainMenu();
 
-    Console.Write("Choose an option: ");
+    Console.Write("Choose/Write a option number: or press any key to Menu");
     string? choice = Console.ReadLine();
 
     switch (choice)
@@ -49,6 +49,8 @@ while (running)
             });
 
             Console.WriteLine("Task added!");
+            Console.Write("Choose/Write a option number: or press any key to Menu");
+
             Console.ReadKey();
             break;
 
